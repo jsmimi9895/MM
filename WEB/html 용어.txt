@@ -1,0 +1,12 @@
+! + tab = 기본세팅
+<strong> = 진하게 표시
+<h 1~6> = 제목을 나타내는 태그(strong과 겹치지않네)
+<p> 단락표현 좀 더 의미있는
+<br> 줄바꿈
+<img src = "" width = "x00%"> = 이미지 출력
+* unsplash - 저작권 없는 이미지 사이트
+<li> 리스트
+<ul> unorder list (숫자 x)
+<ol> order list (숫자 자동 배열)
+
+<a> 링크, target _blank => 새 탭, title => 마우스 올리면 입력한 정보나오기
